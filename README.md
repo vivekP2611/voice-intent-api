@@ -7,7 +7,7 @@ Fine-tuned Qwen2.5-7B-Instruct using QLoRA for customer support intent classific
 - Fine-tuning: QLoRA (4-bit quantization)
 - Dataset: 8,175 customer support queries, 27 intent categories
 - Accuracy: 100% on held-out test samples
-- Model Hub: https://huggingface.co/mihirparmar0913/voice-intent-qwen25
+
 
 ## Endpoints
 - GET /health - Health check
